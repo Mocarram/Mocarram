@@ -1,14 +1,14 @@
-## Hi, It's awesome since you're here 👋
+# Hi, It's awesome since you're here 👋
 
-#### Javascript, React, Firebase, MERN  -- Projects
+### Javascript, React, Firebase, MERN  -- Projects
 
 - **[Projects on ProjectsSpace](https://github.com/ProjectsSpace)**
 
-#### Python, Django, Flask -- Projects
+### Python, Django, Flask -- Projects
 
 - Yet to publish
 
-#### Machine learning -- Projects
+### Data Science and Machine learning -- Projects
 
 - Yet to publish
 
