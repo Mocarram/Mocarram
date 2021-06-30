@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi, It's awesome since you're here 👋
+
+#### Check out my projects - Javascript, React, Firebase, MERN
+
+**[Projects](https://github.com/ProjectsSpace)**
 
 <!--
 **Mocarram/Mocarram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
