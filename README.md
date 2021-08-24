@@ -1,4 +1,4 @@
-# Hi, It's awesome since you're here 👋
+# Hi, It's amazing since you're here 👋
 
 ### Javascript, React, Firebase, MERN  -- Projects
 
